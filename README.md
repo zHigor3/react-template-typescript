@@ -8,7 +8,7 @@ Este é um template para criar projetos React com TypeScript, configurado com We
 2. Clone o novo repositório:
    ```bash
    git clone https://github.com/zHigor3/react-template-typescript.git
-   cd novo-repositorio
+   cd react-template-typescript
 3. Instale as dependências:
    ```bash
    npm install
